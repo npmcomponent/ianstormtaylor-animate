@@ -1,5 +1,5 @@
-var $            = require('jquery')
-  , animationEnd = require('css-animation-event-types').end;
+var $            = require('component-jquery')
+  , animationEnd = require('kewah-css-animation-event-types').end;
 
 
 /*
